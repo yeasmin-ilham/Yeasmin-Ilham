@@ -1,9 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on as a Full Stack Web Developer
 - 🌱 Now I’m learning AI featured to level up my Website
-- 👯 I’m looking to collaborate on Web Development
-- 🤔 I’m looking for help with Full Stack Developer
-- 💬 Ask me about any Developer friendly Question
 - 📫 How to reach me: From Socialmedia Links that provided
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I Love Coding
